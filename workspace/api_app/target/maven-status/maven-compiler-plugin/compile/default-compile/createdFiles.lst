@@ -1,0 +1,8 @@
+com\api\model\Item.class
+com\api\ApiAppApplication.class
+com\api\service\EmailService.class
+com\api\controller\ItemController.class
+com\api\controller\UploadController.class
+com\api\repository\ItemRepository.class
+com\api\service\ItemService.class
+com\api\config\MailConfig.class

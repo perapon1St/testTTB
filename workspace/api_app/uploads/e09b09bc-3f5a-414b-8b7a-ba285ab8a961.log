@@ -1,0 +1,90 @@
+react refresh:6 Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+via.placeholder.com/150:1 
+            
+            
+            GET https://via.placeholder.com/150 net::ERR_NAME_NOT_RESOLVED
+Image
+commitMount @ react-dom-client.development.js:19054
+runWithFiberInDEV @ react-dom-client.development.js:543
+commitHostMount @ react-dom-client.development.js:11123
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11530
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11529
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11529
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11529
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11413
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11585
+recursivelyTraverseLayoutEffects @ react-dom-client.development.js:12410
+commitLayoutEffectOnFiber @ react-dom-client.development.js:11495
+commitLayoutEffects @ react-dom-client.development.js:12406
+commitRootImpl @ react-dom-client.development.js:15329
+commitRoot @ react-dom-client.development.js:15249
+commitRootWhenReady @ react-dom-client.development.js:14570
+performWorkOnRoot @ react-dom-client.development.js:14494
+performWorkOnRootViaSchedulerTask @ react-dom-client.development.js:15931
+performWorkUntilDeadline @ scheduler.development.js:44
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again
+lights.jpg:1 
+            
+            
+           
+        
+        Microsoft Edge is moving towards a new experience that allows users to choose to browse without third-party cookies.
+lights.jpg:1 
+            
+            
+           
+        
+        Microsoft Edge is moving towards a new experience that allows users to choose to browse without third-party cookies.
+lights.jpg:1 
+            
+            
+           
+        
+        Microsoft Edge is moving towards a new experience that allows users to choose to browse without third-party cookies.
+lights.jpg:1 
+            
+            
+           
+        
+        Microsoft Edge is moving towards a new experience that allows users to choose to browse without third-party cookies.
+localhost/:1  Access to XMLHttpRequest at 'http://localhost:8080/api/items/4' from origin 'http://localhost:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+api.js:43  There was an error deleting the item! AxiosError {message: 'Network Error', name: 'AxiosError', code: 'ERR_NETWORK', config: {…}, request: XMLHttpRequest, …}code: "ERR_NETWORK"config: adapter: (3) ['xhr', 'http', 'fetch']allowAbsoluteUrls: truedata: undefinedenv: {FormData: ƒ, Blob: ƒ}headers: AxiosHeaders {Accept: 'application/json, text/plain, */*', Content-Type: undefined}maxBodyLength: -1maxContentLength: -1method: "delete"timeout: 0transformRequest: [ƒ]transformResponse: [ƒ]transitional: {silentJSONParsing: true, forcedJSONParsing: true, clarifyTimeoutError: false}url: "http://localhost:8080/api/items/4"validateStatus: ƒ validateStatus(status)xsrfCookieName: "XSRF-TOKEN"xsrfHeaderName: "X-XSRF-TOKEN"[[Prototype]]: Objectmessage: "Network Error"name: "AxiosError"request: XMLHttpRequest {onreadystatechange: null, readyState: 4, timeout: 0, withCredentials: false, upload: XMLHttpRequestUpload, …}stack: "AxiosError: Network Error\n    at XMLHttpRequest.handleError (http://localhost:3000/static/js/bundle.js:872:14)\n    at Axios.request (http://localhost:3000/static/js/bundle.js:1322:41)\n    at async deleteItem (http://localhost:3000/static/js/bundle.js:31341:5)\n    at async handleDeleteItem (http://localhost:3000/static/js/bundle.js:30808:5)"[[Prototype]]: Error
+deleteItem @ api.js:43
+await in deleteItem
+handleDeleteItem @ App.js:53
+onClick @ App.js:105
+processDispatchQueue @ react-dom-client.development.js:16122
+(anonymous) @ react-dom-client.development.js:16725
+batchedUpdates$1 @ react-dom-client.development.js:3129
+dispatchEventForPluginEventSystem @ react-dom-client.development.js:16281
+dispatchEvent @ react-dom-client.development.js:20352
+dispatchDiscreteEvent @ react-dom-client.development.js:20320
+api.js:41 
+            
+            
+            DELETE http://localhost:8080/api/items/4 net::ERR_FAILED
+dispatchXhrRequest @ xhr.js:195
+xhr @ xhr.js:15
+dispatchRequest @ dispatchRequest.js:51
+_request @ Axios.js:187
+request @ Axios.js:40
+Axios.<computed> @ Axios.js:213
+wrap @ bind.js:5
+deleteItem @ api.js:41
+handleDeleteItem @ App.js:53
+onClick @ App.js:105
+processDispatchQueue @ react-dom-client.development.js:16122
+(anonymous) @ react-dom-client.development.js:16725
+batchedUpdates$1 @ react-dom-client.development.js:3129
+dispatchEventForPluginEventSystem @ react-dom-client.development.js:16281
+dispatchEvent @ react-dom-client.development.js:20352
+dispatchDiscreteEvent @ react-dom-client.development.js:20320
